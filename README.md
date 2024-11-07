@@ -1,6 +1,7 @@
 ##  Hello!! I'm a Computer Science student!
 
 Currently working on a Group Thesis Project
+
 Looking to collaborate on Game/App Development!
 <!--
 **Kocoaboss/Kocoaboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
