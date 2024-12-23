@@ -2,7 +2,7 @@
 
 Currently working on a Group Thesis Project
 
-Looking to collaborate on Game/App Development!
+Eager to collaborate on game and app development! Let's create something amazing!
 <!--
 **Kocoaboss/Kocoaboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
